@@ -4,7 +4,7 @@
 
 # Name of website
 title: Meu Site Pessoal
-description: Bem-vindo ao meu site!
+description: Bem-vindo ao meu site
 remote_theme: daattali/beautiful-jekyll@6.0.1
 language: pt-BR
 
