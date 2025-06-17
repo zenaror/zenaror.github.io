@@ -1,14 +1,11 @@
-title: Meu Site Pessoal
-description: Bem-vindo ao meu site!
-remote_theme: daattali/beautiful-jekyll@6.0.1
-
 ############################
 # --- Required options --- #
 ############################
 
 # Name of website
-title: Meu Site!
-
+title: Meu Site Pessoal
+description: Bem-vindo ao meu site!
+remote_theme: daattali/beautiful-jekyll@6.0.1
 # Your name to show in the footer
 author: Rafael Zenaro de Oliveira
 
