@@ -26,12 +26,12 @@ layout: default
 <!-- Links de paginação -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">« Página anterior</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">« Página anterior</a>
   {% endif %}
 
-  Página {{ paginator.page }} de {{ paginator.total_pages }}
+  <span>Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Próxima página »</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Próxima página »</a>
   {% endif %}
 </div>
