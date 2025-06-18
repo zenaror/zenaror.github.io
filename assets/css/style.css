@@ -26,6 +26,7 @@ flex-direction: column;
 
 /* Layout padrão desktop */
 .content {
+flex: 1;
 display: flex;
 }
 
