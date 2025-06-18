@@ -28,8 +28,6 @@ body {
 }
 
 
-
-
 .main {
   flex: 1;
   padding: 20px;
@@ -61,13 +59,15 @@ header h1 a {
   border-left: 1px solid #ccc;
 }
 
-/* Mobile: sidebar desce */
+/* Sidebar Mobile (100% largura) */
 @media (max-width: 768px) {
   .sidebar {
     max-width: 100%;
     width: 100%;
     border-left: none;
     border-top: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
   }
 }
 
