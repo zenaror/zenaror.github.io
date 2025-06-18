@@ -1,5 +1,4 @@
 _site/*
 Gemfile
-beautiful-jekyll-theme.gemspec
 docker-compose.yml
 Gemfile.lock

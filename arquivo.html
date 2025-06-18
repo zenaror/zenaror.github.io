@@ -1,0 +1,21 @@
+---
+layout: default
+title: Arquivo
+permalink: /arquivo
+---
+
+<h1>Arquivo</h1>
+
+{% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+{% for year in postsByYear %}
+  <h2>{{ year.name }}</h2>
+  <ul>
+    {% for post in year.items %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <small>({{ post.date | date: "%d/%m/%Y" }})</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
