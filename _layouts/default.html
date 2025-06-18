@@ -23,23 +23,6 @@
       {{ content }}
     </main>
 
-{% for post in paginator.posts %}
-  <!-- Layout dos posts -->
-{% endfor %}
-
-<!-- Links de paginação -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">« Página anterior</a>
-  {% endif %}
-
-  Página {{ paginator.page }} de {{ paginator.total_pages }}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Próxima página »</a>
-  {% endif %}
-</div>
-
     <aside class="sidebar">
       {% include sidebar.html %}
     </aside>
