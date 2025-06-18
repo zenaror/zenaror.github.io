@@ -20,33 +20,15 @@ body {
   display: flex;
 }
 
-/* Mobile: sidebar desce */
 @media (max-width: 768px) {
   .content {
     flex-direction: column;
   }
 }
 
-
 .main {
   flex: 1;
   padding: 20px;
-}
-
-/* Header antigo (não mais usado na navbar, mas mantido se quiser usar) */
-header {
-  background-color: #3366cc;
-  color: white;
-  padding: 20px;
-}
-
-header h1 {
-  margin: 0;
-}
-
-header h1 a {
-  color: white;
-  text-decoration: none;
 }
 
 /* Sidebar */
@@ -57,9 +39,9 @@ header h1 a {
   padding: 20px;
   background-color: #f5f5f5;
   border-left: 1px solid #ccc;
+  box-sizing: border-box;
 }
 
-/* Sidebar Mobile (100% largura) */
 @media (max-width: 768px) {
   .sidebar {
     max-width: 100%;
@@ -75,7 +57,7 @@ header h1 a {
   border-bottom: 1px solid #ccc;
 }
 
-/* Avatar na Sidebar */
+/* Avatar */
 .avatar {
   text-align: center;
   margin-bottom: 15px;
@@ -92,7 +74,7 @@ header h1 a {
   margin: 0 auto;
 }
 
-/* Social icons */
+/* Social */
 .social-icons {
   margin: 20px 0;
 }
@@ -118,7 +100,7 @@ footer, .footer {
   font-size: 0.9em;
 }
 
-/* Post preview layout */
+/* Post preview */
 .post-preview {
   display: flex;
   align-items: center;
@@ -166,7 +148,7 @@ footer, .footer {
   background-color: #254d99;
 }
 
-/* Search box (inline) */
+/* Search box inline */
 .search-box {
   margin: 20px 0;
   position: relative;
@@ -237,14 +219,16 @@ footer, .footer {
   align-items: center;
 }
 
-/* Logo + Hamburger */
+/* Topo navbar: busca + botão no mobile */
 .navbar-top {
   display: flex;
   align-items: center;
   width: 100%;
   justify-content: space-between;
+  gap: 10px;
 }
 
+/* Logo */
 .navbar-logo a {
   font-weight: bold;
   color: #003366;
@@ -286,9 +270,7 @@ footer, .footer {
 
 /* Busca no topo mobile */
 .navbar-search-mobile {
-  display: none;
-  width: 100%;
-  padding: 5px 0;
+  flex: 1;
 }
 
 .navbar-search-mobile input {
@@ -303,6 +285,10 @@ footer, .footer {
   display: none;
   font-size: 24px;
   cursor: pointer;
+  padding: 6px 10px;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
 /* ---------------- */
@@ -318,8 +304,12 @@ footer, .footer {
     display: none;
   }
 
-  .navbar-search-mobile {
-    display: block;
+  .navbar-top {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px;
   }
 
   .navbar-links {
@@ -336,12 +326,16 @@ footer, .footer {
     display: block;
   }
 
+  .navbar-search-mobile {
+    display: block;
+  }
+
   .navbar.active .navbar-links {
     display: flex;
   }
 }
 
-
+/* Paginação */
 .pagination {
   display: flex;
   justify-content: center;
