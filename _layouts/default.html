@@ -14,11 +14,7 @@
   <header>
     <div class="container">
       <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/sobre' | relative_url }}">Sobre</a>
-        <a href="{{ '/arquivo' | relative_url }}">Arquivo</a>
-      </nav>
+      {% include navbar.html %}
     </div>
   </header>
 
@@ -32,11 +28,14 @@
     </aside>
   </div>
 
-  <footer>
-    <div class="container">
-      <p>&copy; 2025 Rafael Zenaro de Oliveira - Todos os direitos reservados.</p>
-    </div>
-  </footer>
+  {% include footer.html %}
+<script>
+function toggleMenu() {
+  const navbar = document.querySelector('.navbar');
+  navbar.classList.toggle('active');
+}
+</script>
+
   <script src="/assets/js/search.js"></script>
 </body>
 </html>

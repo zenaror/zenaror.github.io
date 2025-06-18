@@ -1,7 +1,8 @@
 title: Blog do Rafael
-description: Meu blog pessoal com visual retrô anos 2000
+description: Meu blog pessoal
+author: Rafael Zenaro de Oliveira
 baseurl: ""
-url: "https://seuusuario.github.io"
+url: "https://zenaror.github.io"
 theme: minima
 markdown: kramdown
 plugins:

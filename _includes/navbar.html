@@ -1,0 +1,30 @@
+<div class="navbar">
+  <!-- Busca no topo no mobile -->
+  <div class="navbar-search-mobile">
+    <form action="{{ '/search' | relative_url }}" method="get">
+      <input type="text" name="query" placeholder="Buscar...">
+    </form>
+  </div>
+
+  <!-- Navbar principal -->
+  <div class="navbar-left">
+    <!-- <div class="navbar-logo">
+      <a href="{{ '/' | relative_url }}">Meu Blog</a>
+    </div> -->
+    <div class="navbar-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/sobre' | relative_url }}">Sobre</a>
+      <a href="{{ '/arquivo' | relative_url }}">Arquivo</a>
+    </div>
+  </div>
+
+  <!-- Busca no desktop -->
+  <div class="navbar-right">
+    <form action="{{ '/search' | relative_url }}" method="get">
+      <input type="text" name="query" placeholder="Buscar...">
+    </form>
+  </div>
+
+  <!-- Botão hamburger -->
+  <div class="navbar-toggle" onclick="toggleMenu()">☰</div>
+</div>
