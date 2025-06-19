@@ -19,7 +19,7 @@ Mas vocês podem estar se perguntando: **"Quem raios faz um blog/site pessoal em
 
 Bem.... eu!?
 
-Sim, eu não sou tão chegado em rede social e nem aplicativos em dispositivos móveis... não que eu não use... mas não sou muito fã do rumo que as coisas tem tomado... a obrigatoriedade de tudo ser um aplicativo no celular, IA sendo socada goela abaixo, anúncios em todo canto... Sim, eu sou o tipo de pessoa que vai embora do restaurante por ter só cardapio em QR Code ou baixar aplicativo. 
+Sim, eu não sou tão chegado em rede social e nem aplicativos em dispositivos móveis... não que eu não use... mas não sou muito fã do rumo que as coisas tem tomado... a obrigatoriedade de tudo ser um aplicativo no celular, IA sendo socada goela abaixo, anúncios em todo canto... Sim, eu sou o tipo de pessoa que vai embora do restaurante por ter só cardápio em QR Code ou baixar aplicativo. 
 
 **Mas... o que esperar daqui então?**
 
