@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://zenaror.github.io"
 theme: minima
 markdown: kramdown
+permalink: /:year/:month/:day/:title
 paginate: 5  # Quantidade de posts por página
 paginate_path: "/page:num/"
 plugins:

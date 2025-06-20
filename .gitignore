@@ -1,4 +1,6 @@
 _site/*
+admin/*
 Gemfile
 docker-compose.yml
 Gemfile.lock
+redimensionar_fotos_blog.sh

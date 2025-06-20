@@ -2,7 +2,6 @@
 layout: post
 title: "Sejam bem-vindos ao meu espaço pessoal!"
 date: 2025-06-19 17:44:52 -0300
-permalink: /2025/06/19/sejam-bem-vindos-ao-meu-espaco-pessoal
 ---
 
 Sejam bem-vindos ao meu site/blog pessoal 😀 !
