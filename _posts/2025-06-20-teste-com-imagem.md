@@ -11,8 +11,6 @@ imagem aqui
 [![](/assets/uploads/windows-xp-bliss-4k-lu-1336x768-thumb.jpg)](/assets/uploads/windows-xp-bliss-4k-lu-1336x768.jpg)
 
 {:style="text-align:center;"}
-
-
  *<sup><font color="#C0C0C0">asdasd</font></sup>*
 
 asd
