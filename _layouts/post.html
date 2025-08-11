@@ -46,5 +46,16 @@ layout: default
     {% endif -%}
   {% endif -%}
 
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="fab008ff-c803-4104-8026-764f9dc73b0b"
+    data-page-id="{{ PAGE_ID }}"
+    data-page-url="{{ PAGE_URL }}"
+    data-page-title="{{ PAGE_TITLE }}"
+    data-lang="pt"
+    style="height:1000px;"
+  ></div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
