@@ -1,8 +1,9 @@
 title: Blog do Rafael
-description: Meu blog pessoal
+description: Meu blog pessoal. Aqui falo sobre tecnologia, games retrô e tutoriais e tudo o que me der na telha!
 author: Rafael Zenaro de Oliveira
 baseurl: ""
 url: "https://zenaror.github.io"
+lang: "pt-BR"
 theme: minima
 markdown: kramdown
 permalink: /:year/:month/:day/:title
@@ -13,3 +14,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-json-feed
   - jekyll-paginate
+  - jekyll-sitemap
