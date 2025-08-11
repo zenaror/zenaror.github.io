@@ -2,7 +2,7 @@
 title: "Retrobright: Minha primeira tentativa e bem..."
 date: 2025-08-11 15:46:13 -0300
 permalink: /2025/08/11/retrobright-minha-primeira-tentativa-e-bem
-thumbnail: /assets/uploads/2025/08/11/20250720-225556-preview-thumb.jpg
+thumbnail: /assets/uploads/2025/08/11/img-20250716-wa0004-thumb.jpg
 tags: [retrobright, restauração, "restauração de consoles", "restauração de plásticos", "limpeza de consoles", mods, manutenção, dicas, tutoriais]
 ---
 
