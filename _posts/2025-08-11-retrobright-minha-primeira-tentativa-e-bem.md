@@ -39,7 +39,9 @@ E bem, foi só isso que fiz! E olhem como ficou!
 
 Como podem vem um deles ficou bem manchado. Esse foi o primeiro que eu fiz. Ele era o mais amarelado na foto anterior. Uma dica que posso dar aqui é: Não exagere e faça com calma! Uma vez que mancha, não da para voltar atrás!
 
-Nos demais, por mais que não estavam tão amarelados assim, deu para ver que eles ficaram um pouco mais claros que antes. Na câmara UV fiz de 4 a 6 sessões de 30min com um descanso de 5min no meio, por dia, sempre observando a peça entre as pausas. Passado o tempo, lavei elas e deixei só para o dia seguinte caso necessário.
+E tenha sempre uma coisa em mente: todo esse processo não vai restaurar as cores originais igual quando ele era novinho, mas voce consegue um tom bem próximo! Dependendo do quão amarelado estava, pode ser que fique ainda um leve/quase imperceptível amarelado em algumas áreas, e isso é normal. Não extrapole ou se desespere querendo que fique tudo "como novo". Isso aqui é tipo usar "produtos Ivone": ele não rejuvenesce e nem volta no tempo, mas consegue melhorar a aparência.
+
+Nos demais controles, por mais que não estivessem tão amarelados assim, deu para ver que eles ficaram um pouco mais claros que antes e ficaram uniformes. Na câmara UV fiz de 4 a 6 sessões de 30min com um descanso de 5min no meio, por dia, sempre observando a peça entre as pausas. Passado o tempo, lavei elas e deixei só para o dia seguinte caso necessário.
 
 Para esses controles não foi o caso. Mas eu tenho também um Gamecube e o painel da frente dele estava bem amarelado, como podem ver na foto abaixo:
 
