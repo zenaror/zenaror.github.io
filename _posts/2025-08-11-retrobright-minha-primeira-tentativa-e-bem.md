@@ -12,7 +12,7 @@ Sei que faz um belo de um tempo que criei esse blog/site e nunca mais falei nada
 
 Hoje queria compartilhar minha primeira experiencia com uma técnica chamada "*Retrobright*", ou o famoso "tirar o amarelado da carcaça", mas *Retrobright* parece ser mais chique de falar e faz você parecer importante.
 
-Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes
+Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes:
 
 {:style="text-align:center;"}
 [![](/assets/uploads/2025/08/11/img-20250716-wa0004-thumb.jpg)](/assets/uploads/2025/08/11/img-20250716-wa0004.jpg)
@@ -22,7 +22,7 @@ Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes
 
 A técnica consiste em: 
 * Primeira coisa óbvia... Lavar com água morna e detergente neutro sua peça!
-* Cobrir sua peça com camada de **água oxigenada** (tem gente que faz umas misturas com Vanish, amido de milho e sei lá mais o que. Eu usei só a água oxigenada). PELO AMOR DE DEUS, USE LUVAS O TEMPO TODO!
+* Cobrir sua peça com camada de **água oxigenada** (tem gente que faz umas misturas com Vanish, amido de milho e sei lá mais o que. Eu usei só a água oxigenada). PELO AMOR DE DEUS, USE LUVAS E MÁSCARA O TEMPO TODO!
   * Aqui usei água oxigenada 30 volumes. Usei uma camada não muito fina, mas também não entupi a peça, passe normal.
 * Cobrir ela com plástico filme
 * Deixar no sol por umas horas. Sempre monitore de tempo em tempo para ver como está.
