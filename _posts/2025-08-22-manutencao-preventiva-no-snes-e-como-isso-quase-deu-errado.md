@@ -25,7 +25,7 @@ Mas por qual motivo isso importa? Bem... mesmo que seja de coleção, gosto de t
 
 Mas voltando ao SNES. Junto com a desmontagem, aproveitei para começar a fazer o máximo de documentação possível, no qual caso tenha interesse só [**CLICAR AQUI**](https://github.com/zenaror/Anotacoes-Consoles-Retro), coisa que comecei recente. E após alguns parafusos, eis que chegamos a placa principal do console!
 
-{:style="text-align:center;"} 
+{:style="text-align:center;"}
 [![](/assets/uploads/2025/08/22/img-2609-thumb.jpg)](/assets/uploads/2025/08/22/img-2609.jpg)
 
 {:style="text-align:center;"}
