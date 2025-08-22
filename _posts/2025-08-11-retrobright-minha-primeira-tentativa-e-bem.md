@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Retrobright: Minha primeira tentativa e bem..."
 date: 2025-08-11 15:46:13 -0300
 permalink: /2025/08/11/retrobright-minha-primeira-tentativa-e-bem

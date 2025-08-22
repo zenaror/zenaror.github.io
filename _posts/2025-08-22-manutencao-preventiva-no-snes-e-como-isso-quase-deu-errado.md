@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Manutenção preventiva no SNES e como isso QUASE deu errado!"
 date: 2025-08-22 10:55:27 -0300
 permalink: /2025/08/22/manutencao-preventiva-no-snes-e-como-isso-quase-deu-errado
