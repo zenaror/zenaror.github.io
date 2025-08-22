@@ -8,7 +8,7 @@ tags: [retrobright, restauração, "restauração de consoles", "restauração d
 
 Olá mais uma vez!
 
-Sei que faz um belo de um tempo que criei esse blog/site e nunca mais falei nada! Bem, hoje consegui um tempinho para poder escrever algo aqui. Tem outras coisas que gostaria de compartilhar também, mas isso ficará para outra vez.
+Sei que faz um belo de um tempo que criei esse blog/site e nunca mais falei nada! Bem, hoje consegui um tempinho para poder escrever algo aqui. Tem outras coisas que gostaria de compartilhar também, mas isso ficará para outra vez.<!--more-->
 
 Hoje queria compartilhar minha primeira experiencia com uma técnica chamada "*Retrobright*", ou o famoso "tirar o amarelado da carcaça", mas *Retrobright* parece ser mais chique de falar e faz você parecer importante.
 
