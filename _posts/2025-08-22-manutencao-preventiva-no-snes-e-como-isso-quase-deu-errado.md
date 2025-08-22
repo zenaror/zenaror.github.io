@@ -21,7 +21,7 @@ Ele estava guardado na casa dos meus pais bom uns belos anos, e como ultimamente
 
 Mas, o que seria uma preventiva aqui? Tirando o fato de limpar ele (coisa que ainda não fiz direito), seria a troca dos capacitores dele, pois caso não saiba, com o tempo eles tentem a perder a sua capacidade de armazenar carga ou até mesmo vazar com o tempo.
 
-Mas por qual motivo isso importa? Bem... mesmo que seja de coleção, gosto de ter meus consoles funcionando! E pelo menos no Gameboy Color, a troca de capacitores basicamente resolveu meu problema com som extremamente baixo! Talvez eu traga essa história um dia aqui :sweat_smile:.
+Mas por qual motivo isso importa? Bem... mesmo que seja de coleção, gosto de ter meus consoles funcionando! E pelo menos no Gameboy Color, a troca de capacitores basicamente resolveu meu problema com som extremamente baixo! Talvez eu traga essa história um dia aqui 😅.
 
 Mas voltando ao SNES. Junto com a desmontagem, aproveitei para começar a fazer o máximo de documentação possível, no qual caso tenha interesse só [**CLICAR AQUI**](https://github.com/zenaror/Anotacoes-Consoles-Retro), coisa que comecei recente. E após alguns parafusos, eis que chegamos a placa principal do console!
 
@@ -50,7 +50,7 @@ E agora? Bem, vamos lá soldar os novos! Mas tem um porém aqui... os capacitore
 
 A adaptação para soldar aqui não tem muito segredo, é dobrar as perninhas, cortar o excesso e soldar. E como qualquer trabalho com solda, FAÇA COM PACIÊNCIA! (e sempre use fluxo, isso ajuda muito no resultado final!
 
-Então, após quase uma hora para tentar deixar tudo bonitinho, eis que finalmente finalizei! :heart:
+Então, após quase uma hora para tentar deixar tudo bonitinho, eis que finalmente finalizei! ❤️
 
 {:style="text-align:center;"}
 [![](/assets/uploads/2025/08/22/20250820-202411-thumb.jpg)](/assets/uploads/2025/08/22/20250820-202411.jpg)
@@ -58,11 +58,11 @@ Então, após quase uma hora para tentar deixar tudo bonitinho, eis que finalmen
 {:style="text-align:center;"}
 <sup><font color="#C0C0C0">Aprovei o trabalho para trocar a placa traseira do conector de energia que estava quebrada</font></sup>
 
-Então, depois de fechar tudo direitinho, fui testar e... BAM! SEM SOM! :broken_heart: (mas nenhum capacitor explodiu)
+Então, depois de fechar tudo direitinho, fui testar e... BAM! SEM SOM! 💔 (mas nenhum capacitor explodiu)
 
 Então pensei... ok, vou rever aqui a solda e.... tudo certinho! E não sei se da para ver, mas lembram que comentei que a merda começou quando inventei de tirar os capacitores esquentando as perninhas? Não sei se da para ver na foto, mas o capacitor C61 aqui está com um pequeno fiozinho, pois sem querer arranquei a trilha dele, mas consegui emendar ali onde vi que a trilha estava seguindo.
 
-Então o desespero começou a bater :cold_sweat:! A solda estava certa, nenhum capacitor estava em curto... Não sabia o que fazer :cold_sweat:! Então após procurar muito, achei esse video de um canal brasileiro chamado "Assistência Retro" que me ajudou muito a diagnosticar.
+Então o desespero começou a bater 😰! A solda estava certa, nenhum capacitor estava em curto... Não sabia o que fazer 😰! Então após procurar muito, achei esse video de um canal brasileiro chamado "Assistência Retro" que me ajudou muito a diagnosticar.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N5Iq68QNoaw?si=tUlcB8mNRywAItuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -76,9 +76,9 @@ Então consegui fazer uma "sonda" semelhante a dele para conseguir ouvir o som d
 {:style="text-align:center;"}
 <sup><font color="#C0C0C0">"Technolooooooghia"</font></sup>
 
-Por sorte, esse chipzinho ainda é fabricado (o LM324) e é bem baratinho, um kitzinho com 10 unidades, paguei 15 reais! Comprei, chegou, troquei e.... BAM! AINDA SEM SOM! :sob:
+Por sorte, esse chipzinho ainda é fabricado (o LM324) e é bem baratinho, um kitzinho com 10 unidades, paguei 15 reais! Comprei, chegou, troquei e.... BAM! AINDA SEM SOM! 😭
 
-Ainda pronto, já bate aquele gelo na barriga e tristeza imaginando o tamanho da minha burrice e pensando "Porquê raios fui inventar de fazer essa porcaria!?  :rage:". Então junto com o desespero veio a busca por fóruns/reddit/discord para tentar buscar ajuda para solucionar o problema. E no dia seguinte, um abençoado no [REDDIT](https://www.reddit.com/r/consolerepair/comments/1mvv2fq/full_snes_recap_but_no_sound_after_that/) me veio com uma possível solução, lembram do capacitor C61 que eu arranquei a trilha dele sem querer? Pois é... na verdade eram 2 TRILHAS que ele era ligado!
+Ainda pronto, já bate aquele gelo na barriga e tristeza imaginando o tamanho da minha burrice e pensando "Porquê raios fui inventar de fazer essa porcaria!? 😡". Então junto com o desespero veio a busca por fóruns/reddit/discord para tentar buscar ajuda para solucionar o problema. E no dia seguinte, um abençoado no [REDDIT](https://www.reddit.com/r/consolerepair/comments/1mvv2fq/full_snes_recap_but_no_sound_after_that/) me veio com uma possível solução, lembram do capacitor C61 que eu arranquei a trilha dele sem querer? Pois é... na verdade eram 2 TRILHAS que ele era ligado!
 
 {:style="text-align:center;"}
 [![](/assets/uploads/2025/08/22/full-snes-recap-but-no-sound-after-that-sns-cpu-gpm-02-v0-wlhk6fxrqakf1-thumb.jpg)](/assets/uploads/2025/08/22/full-snes-recap-but-no-sound-after-that-sns-cpu-gpm-02-v0-wlhk6fxrqakf1.jpg)
@@ -87,7 +87,7 @@ Ainda pronto, já bate aquele gelo na barriga e tristeza imaginando o tamanho da
 <sup><font color="#C0C0C0">Como podem ver, esse pequeno e minúsculo também estava ligado no mesmo PAD que eu arranquei!</font></sup>
 
 Então imediatamente fui ver com uma lupa/microscópio digital e... não que é o miserável é um gênio!? Realmente estava rompido nesse ponto!
-então peguei e fiz um pequeno jumperzinho, testei e.... BAM! OLHA AI O SOM NOVAMENTE!
+então peguei e fiz um pequeno jumperzinho, testei e.... BAM! OLHA AI O SOM NOVAMENTE! ❤️
 
 {:style="text-align:center;"}
 [![](/assets/uploads/2025/08/22/20250821-081524-thumb.jpg)](/assets/uploads/2025/08/22/20250821-081524.jpg)
@@ -101,4 +101,4 @@ Sei que não ficou o melhor reparo do mundo, mas consegui fazer com as ferrament
 
 Mas devo admitir que foi uma grande aventura fazer isso! Me fez correr atrás de esquemas da placa, aprender mais sobre eletrônica, estudar sobre... e é muito gratificante ver no final um resultado positivo.
 
-E qual é a moral da história? Levem seus consoles em técnicos de CONFIANÇA :sweat_smile:! Vocês podem até tentar fazer por vocês mesmos, mas como vocês viram, o risco de dar uma merda é ENORME! Mesmo para uma tarefa relativamente simples como essa. E a minha lição foi... quando for trocar capacitores, corte eles com um alicate, é mais prático! 
+E qual é a moral da história? Levem seus consoles em técnicos de CONFIANÇA 😅! Vocês podem até tentar fazer por vocês mesmos, mas como vocês viram, o risco de dar uma merda é ENORME! Mesmo para uma tarefa relativamente simples como essa. E a minha lição foi... quando for trocar capacitores, corte eles com um alicate, é mais prático! 
