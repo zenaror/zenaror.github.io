@@ -8,6 +8,7 @@ theme: minima
 excerpt_separator: <!--more-->
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+timezone: America/Sao_Paulo
 paginate: 5  # Quantidade de posts por página
 paginate_path: "/page:num/"
 plugins:
