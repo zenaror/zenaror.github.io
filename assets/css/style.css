@@ -402,3 +402,10 @@ color: #555;
   width: 100% !important;
   overflow: hidden !important;
 }
+
+.banner-center-cropped {
+  object-fit: none; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  height: 300px;
+  width: 100%;
+}

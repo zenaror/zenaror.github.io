@@ -6,7 +6,7 @@ date: 2025-06-19 17:44:52 -0300
 
 Sejam bem-vindos ao meu site/blog pessoal 😀 !
 
-E nada mais justo do que começar com aquela postagem clichê de quem sou eu hahahaha!
+E nada mais justo do que começar com aquela postagem clichê de quem sou eu hahahaha!<!--more-->
 
 Como já devem saber, me chamo Rafael, mas costumam sempre me chamar pelo meu sobrenome, Zenaro. Nasci e cresci em São Paulo, na capital, em Setembro de 1993.
 
