@@ -12,7 +12,7 @@ Sei que faz um belo de um tempo que criei esse blog/site e nunca mais falei nada
 
 Hoje queria compartilhar minha primeira experiencia com uma técnica chamada "*Retrobright*", ou o famoso "tirar o amarelado da carcaça", mas *Retrobright* parece ser mais chique de falar e faz você parecer importante.
 
-Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes
+Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes:
 
 {:style="text-align:center;"}
 [![](/assets/uploads/2025/08/11/img-20250716-wa0004-thumb.jpg)](/assets/uploads/2025/08/11/img-20250716-wa0004.jpg)
@@ -22,7 +22,7 @@ Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes
 
 A técnica consiste em: 
 * Primeira coisa óbvia... Lavar com água morna e detergente neutro sua peça!
-* Cobrir sua peça com camada de **água oxigenada** (tem gente que faz umas misturas com Vanish, amido de milho e sei lá mais o que. Eu usei só a água oxigenada). PELO AMOR DE DEUS, USE LUVAS O TEMPO TODO!
+* Cobrir sua peça com camada de **água oxigenada** (tem gente que faz umas misturas com Vanish, amido de milho e sei lá mais o que. Eu usei só a água oxigenada). PELO AMOR DE DEUS, USE LUVAS E MÁSCARA O TEMPO TODO!
   * Aqui usei água oxigenada 30 volumes. Usei uma camada não muito fina, mas também não entupi a peça, passe normal.
 * Cobrir ela com plástico filme
 * Deixar no sol por umas horas. Sempre monitore de tempo em tempo para ver como está.
@@ -39,7 +39,9 @@ E bem, foi só isso que fiz! E olhem como ficou!
 
 Como podem vem um deles ficou bem manchado. Esse foi o primeiro que eu fiz. Ele era o mais amarelado na foto anterior. Uma dica que posso dar aqui é: Não exagere e faça com calma! Uma vez que mancha, não da para voltar atrás!
 
-Nos demais, por mais que não estavam tão amarelados assim, deu para ver que eles ficaram um pouco mais claros que antes. Na câmara UV fiz de 4 a 6 sessões de 30min com um descanso de 5min no meio, por dia, sempre observando a peça entre as pausas. Passado o tempo, lavei elas e deixei só para o dia seguinte caso necessário.
+E tenha sempre uma coisa em mente: todo esse processo não vai restaurar as cores originais igual quando ele era novinho, mas você consegue um tom bem próximo! Dependendo do quão amarelado estava, pode ser que fique ainda um leve/quase imperceptível amarelado em algumas áreas, e isso é normal. Não extrapole ou se desespere (igual eu fiz) querendo que fique tudo "como novo". Isso aqui é tipo usar "produtos Ivone": ele não rejuvenesce e nem volta no tempo, mas consegue melhorar a aparência.
+
+Nos demais controles, por mais que não estivessem tão amarelados assim, deu para ver que eles ficaram um pouco mais claros que antes e ficaram uniformes. Na câmara UV fiz de 4 a 6 sessões de 30min com um descanso de 5min no meio, por dia, sempre observando a peça entre as pausas. Passado o tempo, lavei elas e deixei só para o dia seguinte caso necessário.
 
 Para esses controles não foi o caso. Mas eu tenho também um Gamecube e o painel da frente dele estava bem amarelado, como podem ver na foto abaixo:
 
