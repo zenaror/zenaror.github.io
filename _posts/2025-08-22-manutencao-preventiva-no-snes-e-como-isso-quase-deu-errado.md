@@ -35,7 +35,9 @@ Então, após um pequeno banho com álcool isopropílico e uma escova de dentes 
 
 Para quem tiver interesse, deixo abaixo um vídeo do Tito (Macho Nacho Productions) que comenta exatamente sobre como remover os capacitores:
 <center>
+<div class="responsive-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fP1wKfwOyU?si=N2qQLK4YE-2IStxG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </center>
 
 Mas bem, após algum tempo, eis o resultado! Placa sem nenhum capacitor:
@@ -65,7 +67,9 @@ Então pensei... ok, vou rever aqui a solda e.... tudo certinho! E não sei se d
 Então o desespero começou a bater 😰! A solda estava certa, nenhum capacitor estava em curto... Não sabia o que fazer 😰! Então após procurar muito, achei esse video de um canal brasileiro chamado "Assistência Retro" que me ajudou muito a diagnosticar.
 
 <center>
+<div class="responsive-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N5Iq68QNoaw?si=tUlcB8mNRywAItuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </center>
 
 Então consegui fazer uma "sonda" semelhante a dele para conseguir ouvir o som direto do circuito, e realmente eu estava com exatamente o mesmo diagnostico dele! O problema? Um chipzinho na marcação U10. Esse carinha é responsável por mixar e fazer um "pós-processamento" do som para enviar para a saída da TV.
