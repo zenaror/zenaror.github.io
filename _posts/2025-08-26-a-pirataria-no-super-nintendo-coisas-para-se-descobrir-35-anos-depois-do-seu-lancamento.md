@@ -2,7 +2,7 @@
 title: "A pirataria no Super Nintendo: Coisas para se descobrir 35 anos depois do seu lançamento."
 date: 2025-08-26 08:53:34 -0300
 permalink: /2025/08/26/a-pirataria-no-super-nintendo-coisas-para-se-descobrir-35-anos-depois-do-seu-lancamento
-thumbnail: /assets/uploads/2025/08/26/chatgpt-1756038159291-thumb-thumb.jpg
+thumbnail: /assets/uploads/2025/08/26/chatgpt-1756038159291-thumb.jpg
 tags: [SNES, Super Nintendo, desbloqueio, pirataria, reparo, jogos piratas, chip CIC, CIC, retro gaming, história dos games, Paraguai, Brasil, consoles antigos, colecionismo, curiosidades]
 ---
 
