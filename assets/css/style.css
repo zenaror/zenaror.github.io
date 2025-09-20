@@ -435,14 +435,10 @@ color: #555;
   height: 100%;
 }
 
+/* Ícone preto → azul */
 .msn-icon {
   height: 20px;
   vertical-align: middle;
   margin-right: 5px;
   filter: invert(27%) sepia(98%) saturate(5000%) hue-rotate(200deg) brightness(95%) contrast(105%);
-}
-
-/* Ícone preto → azul escuro no hover */
-.social-link:hover .msn-icon {
-  filter: invert(20%) sepia(80%) saturate(2500%) hue-rotate(200deg) brightness(90%) contrast(110%);
 }
