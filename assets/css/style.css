@@ -435,37 +435,12 @@ color: #555;
   height: 100%;
 }
 
-.msn-link {
-  color: #0366d6;               /* cor normal do link */
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.msn-link:hover {
-  color: #254d99;               /* cor no hover */
-  text-decoration: underline;
-}
-
-/* Ícone usando mask — vai colorir pelo currentColor */
-.msn-icon {
-  width: 20px;
+a img.msn-icon {
+  filter: invert(27%) sepia(98%) saturate(5000%) hue-rotate(200deg) brightness(95%) contrast(105%);
   height: 20px;
-  display: inline-block;
-  background-color: currentColor; /* usa a cor do link */
-  -webkit-mask: url('/assets/icons/msn.png') no-repeat center/contain;
-  mask: url('/assets/icons/msn.png') no-repeat center/contain;
-  /* fallback básico antes do support: mostra o PNG original */
-  background-image: url('/assets/icons/msn.png');
-  background-size: contain;
-  background-repeat: no-repeat;
+  vertical-align: middle;
 }
 
-/* Para navegadores que suportam mask, prefira remover a background-image */
-@supports (-webkit-mask-image: none) {
-  .msn-icon { background-image: none; }
+a:hover img.msn-icon {
+  filter: invert(30%) sepia(80%) saturate(2000%) hue-rotate(190deg) brightness(90%) contrast(110%);
 }
-
-/* texto ao lado (opcional) */
-.msn-text { font-size: 0.95em; color: inherit; }
