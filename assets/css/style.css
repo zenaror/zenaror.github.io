@@ -454,10 +454,10 @@ color: #555;
   height: 20px;
   display: inline-block;
   background-color: currentColor; /* usa a cor do link */
-  -webkit-mask: url('/assets/img/msn-escargot.png') no-repeat center/contain;
-  mask: url('/assets/img/msn-escargot.png') no-repeat center/contain;
+  -webkit-mask: url('/assets/icons/msn.png') no-repeat center/contain;
+  mask: url('/assets/icons/msn.png') no-repeat center/contain;
   /* fallback básico antes do support: mostra o PNG original */
-  background-image: url('/assets/img/msn-escargot.png');
+  background-image: url('/assets/icons/msn.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
