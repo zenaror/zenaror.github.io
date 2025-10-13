@@ -1,6 +1,6 @@
 ---
 title: "Finalizando as modificações nos consoles antigos!"
-date: 2025-10-13 10:09:53 -0300
+date: 2025-10-13 17:11:10 -0300
 permalink: /2025/10/13/finalizando-as-modificacoes-nos-consoles-antigos
 thumbnail: /assets/uploads/2025/10/13/20251006-215144-thumb.jpg
 tags: [famicom, nes, master-system, mega-drive, sega, nintendo, mods, recap, manutenção, restauração, eletrônica, video-game, retro, retro-gaming, modding, som, vídeo-composto, fonte, energia, conserto, consoles-clássicos, diy, projeto, nostalgia]
@@ -193,7 +193,11 @@ Feito SÓ TUDO ISSO, nessa saga de alguns posts, posso dizer que estou bem satis
 
 E para os cabos de vídeo, agora consigo usar todos consoles no meu upscaler Retrotink 5x Pro! Criei basicamente um perfil genérico para poder atender todos sem nenhuma preocupação!
 
-<imagem GIF para mostrar todos consoles ligados>
+{:style="text-align:center;"}
+[![](/assets/uploads/2025/10/13/gif-consoles.gif)](/assets/uploads/2025/10/13/gif-consoles.gif)
+
+{:style="text-align:center;"}
+<sup><font color="#C0C0C0">Mostrando como ficou tudo no final! Todos são alimentados pela mesma fonte (ou pelo cabo em forma de 8) e por 3 cabos que funcionam em todos os consoles.</font></sup>
 
 E é isso pessoal! Caso tenham ficado com alguma dúvida, podem colocar nos comentários aqui e vamos bater um papo se quiserem! 😁
 
