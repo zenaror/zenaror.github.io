@@ -113,9 +113,11 @@ E para encerrar essa parte de energia, queria citar um pequeno "rabicho" que mon
 
 Quem que interessar, acoonselho esse vídeo com mais detalhes! Para terem uma noção ela consegue até bancar o Megazord da SEGA (Mega Drive, Sega CD e Sega 32X) sozinha!
 
-{:style="text-align:center;"}
-[![The Ultimate Multi-Console Power Supply For Your Retro Consoles / MY LIFE IN GAMING](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzDQ46F_QO8I)](https://www.youtube.com/watch?v=zDQ46F_QO8I)
-
+<center>
+<div class="responsive-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDQ46F_QO8I?si=0cTWVc7xUbC21KQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</center>
 
 ### E agora, os mods de vídeo!
 
@@ -151,8 +153,11 @@ Agora foi a vez do Famicom. Aqui era simplesmente adicionar uma saída de vídeo
 
 Também tem esse vídeo no youtube que aborda especificamente a minha placa
 
-{:style="text-align:center;"}
-[![Mod Famicom AV simplificado](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dky8rFPbzGMU)](https://www.youtube.com/watch?v=ky8rFPbzGMU)
+<center>
+<div class="responsive-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ky8rFPbzGMU?si=V3Kq58OJ8m_X1Wx7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</center>
 
 Foi bem fácil achar os pontos de solda e juntar tudo. Depois de feio a solda, coloquei um pouco de fita para proteger as conexões
 
