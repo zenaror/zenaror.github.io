@@ -202,7 +202,7 @@ E para os cabos de vídeo, agora consigo usar todos consoles no meu upscaler Ret
 [![](/assets/uploads/2025/10/13/gif-consoles.gif)](/assets/uploads/2025/10/13/gif-consoles.gif)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Mostrando como ficou tudo no final! Todos são alimentados pela mesma fonte (ou pelo cabo em forma de 8) e por 3 cabos que funcionam em todos os consoles.</font></sup>
+<sup><font color="#C0C0C0">Mostrando como ficou tudo no final! Todos são alimentados pela mesma fonte (ou pelo cabo em forma de 8) e por 3 cabos de vídeo que funcionam em todos os consoles.</font></sup>
 
 E é isso pessoal! Caso tenham ficado com alguma dúvida, podem colocar nos comentários aqui e vamos bater um papo se quiserem! 😁
 
