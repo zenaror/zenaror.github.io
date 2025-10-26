@@ -8,7 +8,7 @@ theme: minima
 excerpt_separator: <!--more-->
 timezone: America/Sao_Paulo
 markdown: kramdown
-permalink: /:year/:month/:day/:title
+permalink: /posts/:year/:month/:day/:title
 paginate: 5  # Quantidade de posts por página
 paginate_path: "/page:num/"
 plugins:
