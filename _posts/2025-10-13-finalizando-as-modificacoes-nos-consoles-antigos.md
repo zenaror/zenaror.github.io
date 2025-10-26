@@ -1,7 +1,7 @@
 ---
 title: "Finalizando as modificações nos consoles antigos!"
 date: 2025-10-13 17:11:10 -0300
-permalink: /2025/10/13/finalizando-as-modificacoes-nos-consoles-antigos
+permalink: /posts/2025/10/13/finalizando-as-modificacoes-nos-consoles-antigos
 thumbnail: /assets/uploads/2025/10/13/20251006-215144-thumb.jpg
 tags: [famicom, nes, master-system, mega-drive, sega, nintendo, mods, recap, manutenção, restauração, eletrônica, video-game, retro, retro-gaming, modding, som, vídeo-composto, fonte, energia, conserto, consoles-clássicos, diy, projeto, nostalgia]
 ---

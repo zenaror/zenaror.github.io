@@ -2,7 +2,7 @@
 layout: post
 title: "Manutenção preventiva no SNES e como isso QUASE deu errado!"
 date: 2025-08-22 10:55:27 -0300
-permalink: /2025/08/22/manutencao-preventiva-no-snes-e-como-isso-quase-deu-errado
+permalink: /posts/2025/08/22/manutencao-preventiva-no-snes-e-como-isso-quase-deu-errado
 thumbnail: /assets/uploads/2025/08/22/20250822-092211-thumb.jpg
 tags: [snes, super nintendo, manutenção, reparo, recap, restauração, troca de capacitor, capacitor eletrolítico, lm324, reparo de trilha, eletrônica, soldagem, conserto, retrô, retro gaming, videogames clássicos, diagnóstico snes, arrumar super nintendo]
 ---

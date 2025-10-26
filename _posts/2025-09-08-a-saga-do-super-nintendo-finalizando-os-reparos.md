@@ -1,7 +1,7 @@
 ---
 title: "A saga do Super Nintendo: Finalizando os reparos!"
 date: 2025-09-08 12:14:55 -0300
-permalink: /2025/09/08/a-saga-do-super-nintendo-finalizando-os-reparos
+permalink: /posts/2025/09/08/a-saga-do-super-nintendo-finalizando-os-reparos
 thumbnail: /assets/uploads/2025/09/08/20250908-091733-thumb.jpg
 tags: [SNES, Super Nintendo, reparo, chip CIC, CIC, retro gaming, consoles antigos, colecionismo, reparo de trilha, eletrônica, soldagem, conserto]
 ---

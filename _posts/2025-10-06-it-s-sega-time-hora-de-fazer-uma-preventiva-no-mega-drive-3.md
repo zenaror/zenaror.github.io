@@ -1,7 +1,7 @@
 ---
 title: "It's SEGA TIME! Hora de fazer uma preventiva no Mega Drive 3!"
 date: 2025-10-06 10:13:53 -0300
-permalink: /2025/10/06/it-s-sega-time-hora-de-fazer-uma-preventiva-no-mega-drive-3
+permalink: /posts/2025/10/06/it-s-sega-time-hora-de-fazer-uma-preventiva-no-mega-drive-3
 thumbnail: /assets/uploads/2025/10/06/20251006-094940.jpg
 tags: [tectoy, megadrive, sega, sega-megadrive, mods, restauração, recap, manutenção, eletrônica, console, videogame, som-estéreo, audio, retro, retro-gaming, conserto, tutorial, projetos, modding]
 ---

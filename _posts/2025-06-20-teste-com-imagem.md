@@ -1,6 +1,6 @@
 ---
 title: teste com imagem
-permalink: /2025/06/20/teste-com-imagem
+permalink: /posts/2025/06/20/teste-com-imagem
 thumbnail: /assets/uploads/windows-xp-bliss-4k-lu-1336x768.jpg
 date: 2025-06-20 10:28:00 -0300
 published: false
